@@ -2,6 +2,7 @@ package app.src.main.kotlin.fcopardo.array
 
 class TwoSum {
 
+    //O (time) : N
     companion object {
         fun twoSum(nums: IntArray, target: Int): IntArray {
 
