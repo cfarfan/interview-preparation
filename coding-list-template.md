@@ -3,10 +3,10 @@ WebApp for keeping track: https://www.techinterviewhandbook.org/grind75?hours=20
 
 ## Array
 
-- [ ] [Two Sum](https://leetcode.com/problems/two-sum/)
+- [X] [Two Sum](https://leetcode.com/problems/two-sum/)
 - [ ] [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
-- [ ] [Majority Element](https://leetcode.com/problems/majority-element/)
-- [ ] [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
+- [X] [Majority Element](https://leetcode.com/problems/majority-element/)
+- [X] [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
 - [ ] [Move Zeroes](https://leetcode.com/problems/move-zeroes/)
 - [ ] [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)
 - [ ] [3Sum](https://leetcode.com/problems/3sum/)
