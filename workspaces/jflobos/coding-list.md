@@ -173,9 +173,9 @@ WebApp for keeping track: https://www.techinterviewhandbook.org/grind75?hours=20
 ## Binary Tree
 
 - [ ] [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)
-- [ ] [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)
+- [X] [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)
 - [ ] [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree)
-- [ ] [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
+- [X] [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
 - [ ] [Same Tree](https://leetcode.com/problems/same-tree/)
 - [ ] [Symmetric Tree](https://leetcode.com/problems/symmetric-tree)
 - [ ] [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/)
