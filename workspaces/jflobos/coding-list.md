@@ -92,7 +92,7 @@ WebApp for keeping track: https://www.techinterviewhandbook.org/grind75?hours=20
 
 - [ ] [Merge Two Lists](https://leetcode.com/problems/merge-two-lists/)
 - [ ] [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)
-- [ ] [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
+- [X] [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
 - [ ] [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)
 - [ ] [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)
 - [ ] [LRU Cache](https://leetcode.com/problems/lru-cache/)
