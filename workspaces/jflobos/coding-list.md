@@ -39,7 +39,7 @@ WebApp for keeping track: https://www.techinterviewhandbook.org/grind75?hours=20
 
 - [ ] [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
 - [X] [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
-- [ ] [Coin Change](https://leetcode.com/problems/coin-change/)
+- [X] [Coin Change](https://leetcode.com/problems/coin-change/)
 - [ ] [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/)
 - [ ] [Unique Paths](https://leetcode.com/problems/unique-paths/)
 - [ ] [House Robber](https://leetcode.com/problems/house-robber/)
