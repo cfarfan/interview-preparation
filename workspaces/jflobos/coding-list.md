@@ -8,7 +8,7 @@ WebApp for keeping track: https://www.techinterviewhandbook.org/grind75?hours=20
 - [X] [Majority Element](https://leetcode.com/problems/majority-element/)
 - [ ] [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
 - [X] [Move Zeroes](https://leetcode.com/problems/move-zeroes/)
-- [ ] [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)
+- [X] [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)
 - [ ] [3Sum](https://leetcode.com/problems/3sum/)
 - [ ] [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
 - [ ] [Sort Colors](https://leetcode.com/problems/sort-colors)
