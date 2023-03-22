@@ -252,7 +252,7 @@ WebApp for keeping track: https://www.techinterviewhandbook.org/grind75?hours=20
 
 ## Math
 
-- [ ] [Roman to Integer](https://leetcode.com/problems/roman-to-integer/)
+- [X] [Roman to Integer](https://leetcode.com/problems/roman-to-integer/)
 - [ ] [Palindrome Number](https://leetcode.com/problems/palindrome-number/)
 - [ ] [Random Pick with Weight](https://leetcode.com/problems/random-pick-with-weight/)
 - [ ] [Pow(x, n)](https://leetcode.com/problems/powx-n/)
