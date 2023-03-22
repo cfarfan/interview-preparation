@@ -25,7 +25,7 @@ WebApp for keeping track: https://www.techinterviewhandbook.org/grind75?hours=20
 
 ## Binary
 
-- [ ] [Add Binary](https://leetcode.com/problems/add-binary/)
+- [X] [Add Binary](https://leetcode.com/problems/add-binary/)
 - [X] [Counting Bits](https://leetcode.com/problems/counting-bits/)
 - [ ] [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)
 - [ ] [Single Number](https://leetcode.com/problems/single-number/)
