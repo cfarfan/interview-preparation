@@ -177,7 +177,7 @@ WebApp for keeping track: https://www.techinterviewhandbook.org/grind75?hours=20
 - [X] [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree)
 - [X] [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
 - [ ] [Same Tree](https://leetcode.com/problems/same-tree/)
-- [ ] [Symmetric Tree](https://leetcode.com/problems/symmetric-tree)
+- [X] [Symmetric Tree](https://leetcode.com/problems/symmetric-tree)
 - [ ] [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/)
 - [ ] [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)
 - [X] [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)
@@ -195,7 +195,7 @@ WebApp for keeping track: https://www.techinterviewhandbook.org/grind75?hours=20
 
 ## Binary Search Tree
 
-- [ ] [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)
+- [X] [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)
 - [ ] [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)
 - [ ] [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)
 - [ ] [Inorder Successor in BST (Leetcode Premium)](https://leetcode.com/problems/inorder-successor-in-bst/)
