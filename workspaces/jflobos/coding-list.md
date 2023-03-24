@@ -178,7 +178,7 @@ WebApp for keeping track: https://www.techinterviewhandbook.org/grind75?hours=20
 - [X] [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
 - [ ] [Same Tree](https://leetcode.com/problems/same-tree/)
 - [X] [Symmetric Tree](https://leetcode.com/problems/symmetric-tree)
-- [ ] [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/)
+- [X] [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/)
 - [ ] [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)
 - [X] [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)
 - [ ] [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)
