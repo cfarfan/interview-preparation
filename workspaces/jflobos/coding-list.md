@@ -37,7 +37,7 @@ WebApp for keeping track: https://www.techinterviewhandbook.org/grind75?hours=20
 
 ## Dynamic Programming
 
-- [ ] [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
+- [X] [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
 - [X] [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
 - [X] [Coin Change](https://leetcode.com/problems/coin-change/)
 - [ ] [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/)
