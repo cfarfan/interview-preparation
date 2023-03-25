@@ -125,7 +125,7 @@ WebApp for keeping track: https://www.techinterviewhandbook.org/grind75?hours=20
 - [ ] [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)
 - [ ] [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation)
 - [X] [Min Stack](https://leetcode.com/problems/min-stack/)
-- [ ] [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)
+- [X] [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)
 - [ ] [Decode String](https://leetcode.com/problems/decode-string/)
 - [ ] [Asteroid Collision](https://leetcode.com/problems/asteroid-collision/)
 - [ ] [Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/)
