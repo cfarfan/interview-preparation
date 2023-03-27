@@ -80,7 +80,7 @@ WebApp for keeping track: https://www.techinterviewhandbook.org/grind75?hours=20
 ## Interval
 
 - [ ] [Meeting Rooms (Leetcode Premium)](https://leetcode.com/problems/meeting-rooms/)
-- [ ] [Insert Interval](https://leetcode.com/problems/insert-interval/)
+- [X] [Insert Interval](https://leetcode.com/problems/insert-interval/)
 - [ ] [Merge Intervals](https://leetcode.com/problems/merge-intervals/)
 - [ ] [Meeting Rooms II (Leetcode Premium)](https://leetcode.com/problems/meeting-rooms-ii/)
 - [ ] [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/)
