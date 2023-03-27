@@ -227,7 +227,7 @@ WebApp for keeping track: https://www.techinterviewhandbook.org/grind75?hours=20
 
 ## Heap
 
-- [ ] [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/)
+- [X] [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/)
 - [ ] [Task Scheduler](https://leetcode.com/problems/task-scheduler/)
 - [ ] [Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/)
 - [ ] [Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements/)
