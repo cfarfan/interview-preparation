@@ -158,7 +158,7 @@ WebApp for keeping track: https://www.techinterviewhandbook.org/grind75?hours=20
 
 ## Binary Search
 
-- [ ] [Binary Search](https://leetcode.com/problems/binary-search/)
+- [X] [Binary Search](https://leetcode.com/problems/binary-search/)
 - [ ] [First Bad Version](https://leetcode.com/problems/first-bad-version/)
 - [ ] [Search in Rotated Array](https://leetcode.com/problems/search-in-rotated-array/)
 - [ ] [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)
