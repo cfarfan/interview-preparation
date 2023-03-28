@@ -5,11 +5,11 @@ WebApp for keeping track: https://www.techinterviewhandbook.org/grind75?hours=20
 
 - [ ] [Two Sum](https://leetcode.com/problems/two-sum/)
 - [ ] [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
-- [ ] [Majority Element](https://leetcode.com/problems/majority-element/)
+- [X] [Majority Element](https://leetcode.com/problems/majority-element/)
 - [ ] [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
-- [ ] [Move Zeroes](https://leetcode.com/problems/move-zeroes/)
-- [ ] [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)
-- [ ] [3Sum](https://leetcode.com/problems/3sum/)
+- [X] [Move Zeroes](https://leetcode.com/problems/move-zeroes/)
+- [X] [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)
+- [X] [3Sum](https://leetcode.com/problems/3sum/)
 - [ ] [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
 - [ ] [Sort Colors](https://leetcode.com/problems/sort-colors)
 - [ ] [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
@@ -25,21 +25,21 @@ WebApp for keeping track: https://www.techinterviewhandbook.org/grind75?hours=20
 
 ## Binary
 
-- [ ] [Add Binary](https://leetcode.com/problems/add-binary/)
-- [ ] [Counting Bits](https://leetcode.com/problems/counting-bits/)
+- [X] [Add Binary](https://leetcode.com/problems/add-binary/)
+- [X] [Counting Bits](https://leetcode.com/problems/counting-bits/)
 - [ ] [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)
 - [ ] [Single Number](https://leetcode.com/problems/single-number/)
-- [ ] [Missing Number](https://leetcode.com/problems/missing-number/)
-- [ ] [Reverse Bits](https://leetcode.com/problems/reverse-bits/)
+- [X] [Missing Number](https://leetcode.com/problems/missing-number/)
+- [X] [Reverse Bits](https://leetcode.com/problems/reverse-bits/)
 - [ ] [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)
 
 ---
 
 ## Dynamic Programming
 
-- [ ] [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
-- [ ] [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
-- [ ] [Coin Change](https://leetcode.com/problems/coin-change/)
+- [X] [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
+- [X] [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
+- [X] [Coin Change](https://leetcode.com/problems/coin-change/)
 - [ ] [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/)
 - [ ] [Unique Paths](https://leetcode.com/problems/unique-paths/)
 - [ ] [House Robber](https://leetcode.com/problems/house-robber/)
@@ -54,8 +54,8 @@ WebApp for keeping track: https://www.techinterviewhandbook.org/grind75?hours=20
 
 ## Graph
 
-- [ ] [Flood Fill](https://leetcode.com/problems/flood-fill/)
-- [ ] [Clone Graph](https://leetcode.com/problems/clone-graph/)
+- [X] [Flood Fill](https://leetcode.com/problems/flood-fill/)
+- [X] [Clone Graph](https://leetcode.com/problems/clone-graph/)
 - [ ] [Course Schedule](https://leetcode.com/problems/course-schedule/)
 - [ ] [Number of Islands](https://leetcode.com/problems/number-of-islands/)
 - [ ] [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/)
@@ -80,7 +80,7 @@ WebApp for keeping track: https://www.techinterviewhandbook.org/grind75?hours=20
 ## Interval
 
 - [ ] [Meeting Rooms (Leetcode Premium)](https://leetcode.com/problems/meeting-rooms/)
-- [ ] [Insert Interval](https://leetcode.com/problems/insert-interval/)
+- [X] [Insert Interval](https://leetcode.com/problems/insert-interval/)
 - [ ] [Merge Intervals](https://leetcode.com/problems/merge-intervals/)
 - [ ] [Meeting Rooms II (Leetcode Premium)](https://leetcode.com/problems/meeting-rooms-ii/)
 - [ ] [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/)
@@ -91,9 +91,9 @@ WebApp for keeping track: https://www.techinterviewhandbook.org/grind75?hours=20
 ## Linked List
 
 - [ ] [Merge Two Lists](https://leetcode.com/problems/merge-two-lists/)
-- [ ] [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)
-- [ ] [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
-- [ ] [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)
+- [X] [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)
+- [X] [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
+- [X] [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)
 - [ ] [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)
 - [ ] [LRU Cache](https://leetcode.com/problems/lru-cache/)
 - [ ] [Remove Nth Node From End Of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
@@ -121,11 +121,11 @@ WebApp for keeping track: https://www.techinterviewhandbook.org/grind75?hours=20
 ## Stack
 
 - [ ] [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
-- [ ] [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)
+- [X] [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)
 - [ ] [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)
-- [ ] [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation)
-- [ ] [Min Stack](https://leetcode.com/problems/min-stack/)
-- [ ] [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)
+- [X] [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation)
+- [X] [Min Stack](https://leetcode.com/problems/min-stack/)
+- [X] [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)
 - [ ] [Decode String](https://leetcode.com/problems/decode-string/)
 - [ ] [Asteroid Collision](https://leetcode.com/problems/asteroid-collision/)
 - [ ] [Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/)
@@ -141,7 +141,7 @@ WebApp for keeping track: https://www.techinterviewhandbook.org/grind75?hours=20
 
 - [ ] [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
 - [ ] [Valid Anagram](https://leetcode.com/problems/valid-anagram/)
-- [ ] [Longest Palindrome](https://leetcode.com/problems/longest-palindrome/)
+- [X] [Longest Palindrome](https://leetcode.com/problems/longest-palindrome/)
 - [ ] [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)
 - [ ] [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
 - [ ] [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)
@@ -159,9 +159,9 @@ WebApp for keeping track: https://www.techinterviewhandbook.org/grind75?hours=20
 ## Binary Search
 
 - [ ] [Binary Search](https://leetcode.com/problems/binary-search/)
-- [ ] [First Bad Version](https://leetcode.com/problems/first-bad-version/)
+- [X] [First Bad Version](https://leetcode.com/problems/first-bad-version/)
 - [ ] [Search in Rotated Array](https://leetcode.com/problems/search-in-rotated-array/)
-- [ ] [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)
+- [X] [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)
 - [ ] [Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/)
 - [ ] [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)
 - [ ] [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
@@ -173,14 +173,14 @@ WebApp for keeping track: https://www.techinterviewhandbook.org/grind75?hours=20
 ## Binary Tree
 
 - [ ] [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)
-- [ ] [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)
-- [ ] [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree)
-- [ ] [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
+- [X] [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)
+- [X] [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree)
+- [X] [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
 - [ ] [Same Tree](https://leetcode.com/problems/same-tree/)
-- [ ] [Symmetric Tree](https://leetcode.com/problems/symmetric-tree)
-- [ ] [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/)
-- [ ] [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)
-- [ ] [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)
+- [X] [Symmetric Tree](https://leetcode.com/problems/symmetric-tree)
+- [X] [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/)
+- [X] [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)
+- [X] [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)
 - [ ] [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)
 - [ ] [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)
 - [ ] [Path Sum II](https://leetcode.com/problems/path-sum-ii/)
@@ -195,7 +195,7 @@ WebApp for keeping track: https://www.techinterviewhandbook.org/grind75?hours=20
 
 ## Binary Search Tree
 
-- [ ] [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)
+- [X] [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)
 - [ ] [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)
 - [ ] [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)
 - [ ] [Inorder Successor in BST (Leetcode Premium)](https://leetcode.com/problems/inorder-successor-in-bst/)
@@ -227,7 +227,7 @@ WebApp for keeping track: https://www.techinterviewhandbook.org/grind75?hours=20
 
 ## Heap
 
-- [ ] [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/)
+- [X] [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/)
 - [ ] [Task Scheduler](https://leetcode.com/problems/task-scheduler/)
 - [ ] [Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/)
 - [ ] [Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements/)
@@ -252,8 +252,8 @@ WebApp for keeping track: https://www.techinterviewhandbook.org/grind75?hours=20
 
 ## Math
 
-- [ ] [Roman to Integer](https://leetcode.com/problems/roman-to-integer/)
-- [ ] [Palindrome Number](https://leetcode.com/problems/palindrome-number/)
+- [X] [Roman to Integer](https://leetcode.com/problems/roman-to-integer/)
+- [X] [Palindrome Number](https://leetcode.com/problems/palindrome-number/)
 - [ ] [Random Pick with Weight](https://leetcode.com/problems/random-pick-with-weight/)
 - [ ] [Pow(x, n)](https://leetcode.com/problems/powx-n/)
 - [ ] [Reverse Integer](https://leetcode.com/problems/reverse-integer/)
