@@ -9,7 +9,7 @@ WebApp for keeping track: https://www.techinterviewhandbook.org/grind75?hours=20
 - [ ] [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
 - [ ] [Move Zeroes](https://leetcode.com/problems/move-zeroes/)
 - [ ] [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)
-- [ ] [3Sum](https://leetcode.com/problems/3sum/)
+- [X] [3Sum](https://leetcode.com/problems/3sum/)
 - [ ] [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
 - [ ] [Sort Colors](https://leetcode.com/problems/sort-colors)
 - [ ] [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
@@ -26,7 +26,7 @@ WebApp for keeping track: https://www.techinterviewhandbook.org/grind75?hours=20
 ## Binary
 
 - [ ] [Add Binary](https://leetcode.com/problems/add-binary/)
-- [ ] [Counting Bits](https://leetcode.com/problems/counting-bits/)
+- [X] [Counting Bits](https://leetcode.com/problems/counting-bits/)
 - [ ] [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)
 - [ ] [Single Number](https://leetcode.com/problems/single-number/)
 - [ ] [Missing Number](https://leetcode.com/problems/missing-number/)
