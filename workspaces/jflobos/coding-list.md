@@ -123,7 +123,7 @@ WebApp for keeping track: https://www.techinterviewhandbook.org/grind75?hours=20
 - [ ] [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
 - [X] [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)
 - [ ] [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)
-- [ ] [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation)
+- [X] [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation)
 - [X] [Min Stack](https://leetcode.com/problems/min-stack/)
 - [X] [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)
 - [ ] [Decode String](https://leetcode.com/problems/decode-string/)
