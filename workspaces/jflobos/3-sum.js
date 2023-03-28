@@ -5,7 +5,7 @@
 var threeSum = function(nums) {
     
     const sorted = nums.sort((a,b) => a - b);
-    const solution = new Set();
+    const solution = [];
     for (let pivot = 0; pivot < sorted.length; pivot++) {
         if (pivot > 0 && sorted[pivot] === sorted[pivot-1]) {
             continue;
@@ -16,10 +16,7 @@ var threeSum = function(nums) {
             const sum = sorted[left] + sorted[right] + sorted[pivot];
             if (sum === 0) {
                 if (left !== pivot && right !== pivot) {
-                    const triplet = [sorted[left], sorted[pivot], sorted[right]].sort().join(',');
-                    if (!solution.has(triplet)) {
-                        solution.add(triplet);
-                    }
+                    solution.push([sorted[left], sorted[pivot], sorted[right]]);
                 }
                 left++
                 while (sorted[left] === sorted[left-1]) {
@@ -31,17 +28,11 @@ var threeSum = function(nums) {
                 }
             } else if (sum < 0) {
                 left++;
-                if (left === pivot) {
-                    left++;
-                }
             } else {
                 right--;
-                if (right === pivot) {
-                    right--;
-                }
             }
         }
     }
 
-    return [...solution.keys()].map(key => key.split(',').map(x => parseInt(x)));
+    return solution;
 };
