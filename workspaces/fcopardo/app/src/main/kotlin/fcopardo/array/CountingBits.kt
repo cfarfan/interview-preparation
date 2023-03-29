@@ -14,7 +14,6 @@ class CountingBits {
 
         fun onesInBinary(num : Int) : Int {
             var rest = num
-            var total = ""
             var digit = 0
             var accumulated = 0
             while(rest > 0){
@@ -22,8 +21,7 @@ class CountingBits {
                 if(digit == 1){
                     accumulated++
                 }
-                total += digit.toString()
-                rest /= 2
+                rest = rest/2
             }
             return accumulated
         }
