@@ -4,6 +4,8 @@
 package app.src.main.kotlin.fcopardo
 
 import app.src.main.kotlin.fcopardo.array.TwoSum
+import app.src.main.kotlin.fcopardo.binary.FirstBadVersion
+import app.src.main.kotlin.fcopardo.binary.ReverseBits
 
 class App {
     val greeting: String
@@ -14,7 +16,20 @@ class App {
 
 fun main() {
     println(App().greeting)
-    TwoSum.twoSum(intArrayOf(2, 7, 5, 16, 8), 9).forEach {
+    /*TwoSum.twoSum(intArrayOf(2, 7, 5, 16, 8), 9).forEach {
         print("$it,")
-    }
+    }*/
+    /*CFG.decToBinary(-3)
+    println()
+    println(ReverseBits.toBinary(-3))
+    println(ReverseBits.reverseBits(-3))
+    println("00111001011110000010100101000000".toInt(2))
+    println(ReverseBits.toBinary(-3).toInt(2))*/
+
+    /*FirstBadVersion.badVersion = 1702766719
+    println(FirstBadVersion.firstBadVersion(2126753390))*/
+
+    FirstBadVersion.badVersion = 4
+    println(FirstBadVersion.firstBadVersion(5))
+
 }
