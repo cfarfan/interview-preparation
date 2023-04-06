@@ -10,7 +10,7 @@ WebApp for keeping track: https://www.techinterviewhandbook.org/grind75?hours=20
 - [X] [Move Zeroes](https://leetcode.com/problems/move-zeroes/)
 - [X] [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)
 - [X] [3Sum](https://leetcode.com/problems/3sum/)
-- [ ] [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
+- [] [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
 - [ ] [Sort Colors](https://leetcode.com/problems/sort-colors)
 - [ ] [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
 - [ ] [Gas Station](https://leetcode.com/problems/gas-station/)
@@ -210,7 +210,7 @@ WebApp for keeping track: https://www.techinterviewhandbook.org/grind75?hours=20
 
 ## Trie
 
-- [ ] [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)
+- [X] [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)
 - [ ] [Word Break](https://leetcode.com/problems/word-break/)
 - [ ] [Design Add and Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure/)
 - [ ] [Design In-Memory File System](https://leetcode.com/problems/design-in-memory-file-system/)
