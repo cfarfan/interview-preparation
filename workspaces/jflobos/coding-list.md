@@ -57,7 +57,7 @@ WebApp for keeping track: https://www.techinterviewhandbook.org/grind75?hours=20
 - [X] [Flood Fill](https://leetcode.com/problems/flood-fill/)
 - [X] [Clone Graph](https://leetcode.com/problems/clone-graph/)
 - [X] [Course Schedule](https://leetcode.com/problems/course-schedule/)
-- [ ] [Number of Islands](https://leetcode.com/problems/number-of-islands/)
+- [X] [Number of Islands](https://leetcode.com/problems/number-of-islands/)
 - [ ] [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/)
 - [ ] [Accounts Merge](https://leetcode.com/problems/accounts-merge/)
 - [ ] [Word Search](https://leetcode.com/problems/word-search/)
