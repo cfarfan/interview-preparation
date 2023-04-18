@@ -240,7 +240,7 @@ WebApp for keeping track: https://www.techinterviewhandbook.org/grind75?hours=20
 
 ## Recursion
 
-- [ ] [Permutations](https://leetcode.com/problems/permutations/)
+- [X] [Permutations](https://leetcode.com/problems/permutations/)
 - [X] [Combination Sum](https://leetcode.com/problems/combination-sum/)
 - [ ] [Subsets](https://leetcode.com/problems/subsets/)
 - [ ] [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)
