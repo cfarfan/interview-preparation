@@ -18,34 +18,30 @@ class ProductOfArrayMinusSelf {
         }
 
         fun create(nums:IntArray){
-            var c = 0
-            var k = nums.lastIndex
 
-            var result = 1
-            var aux = 1
+            var i = 0
+            var z = nums.lastIndex
+            var bottom = 1
+            var top = 1
+            var keepGoing = true
 
-            var result2 = 1
-
-            while(c<=nums.lastIndex){
-                result = result*nums[c]
-                if(c!=0){
-                    aux = aux*nums[c]
+            while(keepGoing){
+                if(z>=0){
+                    top = top*nums[z]
+                    calculatedTop[z] = top
+                    z--
+                } else {
+                    keepGoing = false
                 }
-                if(!calculated.containsKey(c)){
-                    calculated[c] = result
+                if(i<=nums.lastIndex){
+                    bottom = bottom*nums[i]
+                    calculated[i] = bottom
+                    i++
+                } else {
+                    keepGoing = false
                 }
-                c++
             }
 
-            while(k>=0){
-                result2 = result2*nums[k]
-                if(!calculatedTop.containsKey(k)){
-                    calculatedTop[k] = result2
-                }
-                k--
-            }
-
-            calculated[nums.lastIndex+1] = aux
         }
 
         fun multiply(nums:IntArray, excluded: Int) : Int {
@@ -53,7 +49,7 @@ class ProductOfArrayMinusSelf {
             var result = 1
 
             if(excluded == 0) {
-                return calculated[nums.lastIndex+1]!!
+                return calculatedTop[excluded+1]!!
             }
 
             if( (calculated.containsKey(excluded-1)) ){
