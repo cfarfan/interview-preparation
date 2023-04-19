@@ -10,7 +10,7 @@ class ProductOfArrayMinusSelf {
             var copy = IntArray(nums.size)
             create(nums)
             while(c<=nums.lastIndex){
-                copy[c] = multiply(nums, c)
+                copy[c] = multiply(c)
                 c++
             }
             return copy
@@ -44,28 +44,18 @@ class ProductOfArrayMinusSelf {
 
         }
 
-        fun multiply(nums:IntArray, excluded: Int) : Int {
-            var c = 0
-            var result = 1
+        fun multiply(excluded: Int) : Int {
 
             if(excluded == 0) {
                 return calculatedTop[excluded+1]!!
             }
-
-            if( (calculated.containsKey(excluded-1)) ){
-                result = calculated[excluded-1]!!
-                c = excluded+1
-                if(calculatedTop.containsKey(c)){
-                    return result*calculatedTop[c]!!
-                }
+            var top = if(calculatedTop.containsKey(excluded+1)){
+                calculatedTop[excluded+1]!!
+            } else {
+                1
             }
 
-            while(c<=nums.lastIndex){
-                result = result*nums[c]
-                c++
-            }
-
-            return result
+            return calculated[excluded-1]!!*top
         }
     }
 }
