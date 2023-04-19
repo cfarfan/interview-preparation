@@ -10,7 +10,7 @@ WebApp for keeping track: https://www.techinterviewhandbook.org/grind75?hours=20
 - [X] [Move Zeroes](https://leetcode.com/problems/move-zeroes/)
 - [X] [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)
 - [X] [3Sum](https://leetcode.com/problems/3sum/)
-- [ ] [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
+- [X] [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
 - [ ] [Sort Colors](https://leetcode.com/problems/sort-colors)
 - [ ] [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
 - [ ] [Gas Station](https://leetcode.com/problems/gas-station/)
@@ -56,9 +56,9 @@ WebApp for keeping track: https://www.techinterviewhandbook.org/grind75?hours=20
 
 - [X] [Flood Fill](https://leetcode.com/problems/flood-fill/)
 - [X] [Clone Graph](https://leetcode.com/problems/clone-graph/)
-- [ ] [Course Schedule](https://leetcode.com/problems/course-schedule/)
-- [ ] [Number of Islands](https://leetcode.com/problems/number-of-islands/)
-- [ ] [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/)
+- [X] [Course Schedule](https://leetcode.com/problems/course-schedule/)
+- [X] [Number of Islands](https://leetcode.com/problems/number-of-islands/)
+- [X] [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/)
 - [ ] [Accounts Merge](https://leetcode.com/problems/accounts-merge/)
 - [ ] [Word Search](https://leetcode.com/problems/word-search/)
 - [ ] [Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees/)
@@ -109,7 +109,7 @@ WebApp for keeping track: https://www.techinterviewhandbook.org/grind75?hours=20
 
 ## Matrix
 
-- [ ] [01 Matrix](https://leetcode.com/problems/01-matrix/)
+- [X] [01 Matrix](https://leetcode.com/problems/01-matrix/)
 - [ ] [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)
 - [ ] [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)
 - [ ] [Rotate Image](https://leetcode.com/problems/rotate-image/)
@@ -196,7 +196,7 @@ WebApp for keeping track: https://www.techinterviewhandbook.org/grind75?hours=20
 ## Binary Search Tree
 
 - [X] [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)
-- [ ] [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)
+- [X] [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)
 - [ ] [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)
 - [ ] [Inorder Successor in BST (Leetcode Premium)](https://leetcode.com/problems/inorder-successor-in-bst/)
 
@@ -210,7 +210,7 @@ WebApp for keeping track: https://www.techinterviewhandbook.org/grind75?hours=20
 
 ## Trie
 
-- [ ] [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)
+- [X] [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)
 - [ ] [Word Break](https://leetcode.com/problems/word-break/)
 - [ ] [Design Add and Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure/)
 - [ ] [Design In-Memory File System](https://leetcode.com/problems/design-in-memory-file-system/)
@@ -240,8 +240,8 @@ WebApp for keeping track: https://www.techinterviewhandbook.org/grind75?hours=20
 
 ## Recursion
 
-- [ ] [Permutations](https://leetcode.com/problems/permutations/)
-- [ ] [Combination Sum](https://leetcode.com/problems/combination-sum/)
+- [X] [Permutations](https://leetcode.com/problems/permutations/)
+- [X] [Combination Sum](https://leetcode.com/problems/combination-sum/)
 - [ ] [Subsets](https://leetcode.com/problems/subsets/)
 - [ ] [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)
 - [ ] [Next Permutation](https://leetcode.com/problems/next-permutation/)
