@@ -11,7 +11,7 @@ WebApp for keeping track: https://www.techinterviewhandbook.org/grind75?hours=20
 - [X] [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)
 - [X] [3Sum](https://leetcode.com/problems/3sum/)
 - [X] [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
-- [ ] [Sort Colors](https://leetcode.com/problems/sort-colors)
+- [X] [Sort Colors](https://leetcode.com/problems/sort-colors)
 - [ ] [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
 - [ ] [Gas Station](https://leetcode.com/problems/gas-station/)
 - [ ] [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)
