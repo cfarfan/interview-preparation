@@ -211,7 +211,7 @@ WebApp for keeping track: https://www.techinterviewhandbook.org/grind75?hours=20
 ## Trie
 
 - [X] [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)
-- [ ] [Word Break](https://leetcode.com/problems/word-break/)
+- [X] [Word Break](https://leetcode.com/problems/word-break/)
 - [ ] [Design Add and Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure/)
 - [ ] [Design In-Memory File System](https://leetcode.com/problems/design-in-memory-file-system/)
 
