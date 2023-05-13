@@ -11,7 +11,7 @@ WebApp for keeping track: https://www.techinterviewhandbook.org/grind75?hours=20
 - [X] [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)
 - [X] [3Sum](https://leetcode.com/problems/3sum/)
 - [X] [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
-- [ ] [Sort Colors](https://leetcode.com/problems/sort-colors)
+- [X] [Sort Colors](https://leetcode.com/problems/sort-colors)
 - [ ] [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
 - [ ] [Gas Station](https://leetcode.com/problems/gas-station/)
 - [ ] [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)
@@ -40,7 +40,7 @@ WebApp for keeping track: https://www.techinterviewhandbook.org/grind75?hours=20
 - [X] [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
 - [X] [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
 - [X] [Coin Change](https://leetcode.com/problems/coin-change/)
-- [ ] [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/)
+- [X] [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/)
 - [ ] [Unique Paths](https://leetcode.com/problems/unique-paths/)
 - [ ] [House Robber](https://leetcode.com/problems/house-robber/)
 - [ ] [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)
@@ -81,7 +81,7 @@ WebApp for keeping track: https://www.techinterviewhandbook.org/grind75?hours=20
 
 - [ ] [Meeting Rooms (Leetcode Premium)](https://leetcode.com/problems/meeting-rooms/)
 - [X] [Insert Interval](https://leetcode.com/problems/insert-interval/)
-- [ ] [Merge Intervals](https://leetcode.com/problems/merge-intervals/)
+- [X] [Merge Intervals](https://leetcode.com/problems/merge-intervals/)
 - [ ] [Meeting Rooms II (Leetcode Premium)](https://leetcode.com/problems/meeting-rooms-ii/)
 - [ ] [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/)
 - [ ] [Employee Free Time](https://leetcode.com/problems/employee-free-time/)
@@ -162,7 +162,7 @@ WebApp for keeping track: https://www.techinterviewhandbook.org/grind75?hours=20
 - [X] [First Bad Version](https://leetcode.com/problems/first-bad-version/)
 - [ ] [Search in Rotated Array](https://leetcode.com/problems/search-in-rotated-array/)
 - [X] [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)
-- [ ] [Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/)
+- [X] [Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/)
 - [ ] [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)
 - [ ] [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
 - [ ] [Maximum Profit in Job Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling/)
@@ -211,7 +211,7 @@ WebApp for keeping track: https://www.techinterviewhandbook.org/grind75?hours=20
 ## Trie
 
 - [X] [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)
-- [ ] [Word Break](https://leetcode.com/problems/word-break/)
+- [X] [Word Break](https://leetcode.com/problems/word-break/)
 - [ ] [Design Add and Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure/)
 - [ ] [Design In-Memory File System](https://leetcode.com/problems/design-in-memory-file-system/)
 
