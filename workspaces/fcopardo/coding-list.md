@@ -6,9 +6,10 @@ WebApp for keeping track: https://www.techinterviewhandbook.org/grind75?hours=20
 - [X] [Two Sum](https://leetcode.com/problems/two-sum/)
 - [X] [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
 - [X] [Majority Element](https://leetcode.com/problems/majority-element/)
-- [ ] [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
-- [ ] [Move Zeroes](https://leetcode.com/problems/move-zeroes/)
-- [ ] [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)
+- [X] [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
+- [X] [Move Zeroes](https://leetcode.com/problems/move-zeroes/)
+- [X] [Last Stone Weight](https://leetcode.com/problems/last-stone-weight/description/)
+- [X] [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)
 - [X] [3Sum](https://leetcode.com/problems/3sum/)
 - [X] [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
 - [ ] [Sort Colors](https://leetcode.com/problems/sort-colors)
@@ -253,8 +254,8 @@ WebApp for keeping track: https://www.techinterviewhandbook.org/grind75?hours=20
 
 ## Math
 
-- [ ] [Roman to Integer](https://leetcode.com/problems/roman-to-integer/)
-- [ ] [Palindrome Number](https://leetcode.com/problems/palindrome-number/)
+- [X] [Roman to Integer](https://leetcode.com/problems/roman-to-integer/)
+- [X] [Palindrome Number](https://leetcode.com/problems/palindrome-number/)
 - [ ] [Random Pick with Weight](https://leetcode.com/problems/random-pick-with-weight/)
 - [ ] [Pow(x, n)](https://leetcode.com/problems/powx-n/)
 - [ ] [Reverse Integer](https://leetcode.com/problems/reverse-integer/)
