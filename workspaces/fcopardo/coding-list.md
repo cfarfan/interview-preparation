@@ -15,7 +15,7 @@ WebApp for keeping track: https://www.techinterviewhandbook.org/grind75?hours=20
 - [X] [Sort Colors](https://leetcode.com/problems/sort-colors)
 - [X] [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
 - [X] [Gas Station](https://leetcode.com/problems/gas-station/)
-- [ ] [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)
+- [X] [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)
 - [ ] [Rotate Array](https://leetcode.com/problems/rotate-array/)
 - [ ] [Contiguous Array](https://leetcode.com/problems/contiguous-array/)
 - [ ] [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)
