@@ -140,7 +140,7 @@ WebApp for keeping track: https://www.techinterviewhandbook.org/grind75?hours=20
 
 ## String
 
-- [ ] [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
+- [X] [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
 - [ ] [Valid Anagram](https://leetcode.com/problems/valid-anagram/)
 - [ ] [Longest Palindrome](https://leetcode.com/problems/longest-palindrome/)
 - [X] [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)
