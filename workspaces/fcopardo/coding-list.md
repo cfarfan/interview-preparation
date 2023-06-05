@@ -141,7 +141,7 @@ WebApp for keeping track: https://www.techinterviewhandbook.org/grind75?hours=20
 ## String
 
 - [X] [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
-- [ ] [Valid Anagram](https://leetcode.com/problems/valid-anagram/)
+- [X] [Valid Anagram](https://leetcode.com/problems/valid-anagram/)
 - [ ] [Longest Palindrome](https://leetcode.com/problems/longest-palindrome/)
 - [X] [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)
 - [ ] [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
