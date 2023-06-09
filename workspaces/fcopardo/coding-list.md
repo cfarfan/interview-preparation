@@ -93,7 +93,7 @@ WebApp for keeping track: https://www.techinterviewhandbook.org/grind75?hours=20
 
 - [X] [Merge Two Lists](https://leetcode.com/problems/merge-two-lists/)
 - [X] [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)
-- [ ] [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
+- [X] [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
 - [ ] [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)
 - [ ] [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)
 - [ ] [LRU Cache](https://leetcode.com/problems/lru-cache/)
@@ -221,7 +221,7 @@ WebApp for keeping track: https://www.techinterviewhandbook.org/grind75?hours=20
 
 ## Hash Table
 
-- [ ] [Ransom Note](https://leetcode.com/problems/ransom-note/)
+- [X] [Ransom Note](https://leetcode.com/problems/ransom-note/)
 - [ ] [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/)
 - [ ] [First Missing Positive](https://leetcode.com/problems/first-missing-positive/)
 
