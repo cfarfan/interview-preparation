@@ -29,7 +29,7 @@ WebApp for keeping track: https://www.techinterviewhandbook.org/grind75?hours=20
 - [ ] [Add Binary](https://leetcode.com/problems/add-binary/)
 - [X] [Counting Bits](https://leetcode.com/problems/counting-bits/)
 - [X] [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)
-- [ ] [Single Number](https://leetcode.com/problems/single-number/)
+- [X] [Single Number](https://leetcode.com/problems/single-number/)
 - [ ] [Missing Number](https://leetcode.com/problems/missing-number/)
 - [ ] [Reverse Bits](https://leetcode.com/problems/reverse-bits/)
 - [ ] [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)
@@ -122,8 +122,8 @@ WebApp for keeping track: https://www.techinterviewhandbook.org/grind75?hours=20
 ## Stack
 
 - [X] [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
-- [ ] [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)
-- [ ] [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)
+- [X] [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)
+- [X] [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)
 - [ ] [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation)
 - [ ] [Min Stack](https://leetcode.com/problems/min-stack/)
 - [ ] [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)
