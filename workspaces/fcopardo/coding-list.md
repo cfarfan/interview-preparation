@@ -26,11 +26,11 @@ WebApp for keeping track: https://www.techinterviewhandbook.org/grind75?hours=20
 
 ## Binary
 
-- [ ] [Add Binary](https://leetcode.com/problems/add-binary/)
+- [X] [Add Binary](https://leetcode.com/problems/add-binary/)
 - [X] [Counting Bits](https://leetcode.com/problems/counting-bits/)
 - [X] [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)
 - [X] [Single Number](https://leetcode.com/problems/single-number/)
-- [ ] [Missing Number](https://leetcode.com/problems/missing-number/)
+- [X] [Missing Number](https://leetcode.com/problems/missing-number/)
 - [ ] [Reverse Bits](https://leetcode.com/problems/reverse-bits/)
 - [ ] [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)
 
@@ -94,8 +94,8 @@ WebApp for keeping track: https://www.techinterviewhandbook.org/grind75?hours=20
 - [X] [Merge Two Lists](https://leetcode.com/problems/merge-two-lists/)
 - [X] [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)
 - [X] [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
-- [ ] [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)
-- [ ] [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)
+- [X] [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)
+- [X] [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)
 - [ ] [LRU Cache](https://leetcode.com/problems/lru-cache/)
 - [ ] [Remove Nth Node From End Of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
 - [ ] [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)
